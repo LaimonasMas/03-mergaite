@@ -9,20 +9,22 @@ body {
 nav {
     display: inline-block;
     float: right;
-    background-color: pink;
+    
     margin-top: 15px;
     margin-right: 60px;
 }
 ul {
     display: inline-flex;
-    background-color: orange;
+    
     
 }
 li {
     list-style-type: none;
     margin-right: 40px;
     margin-top: 15px;
-    background-color: orchid;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9E9E9E;
 }
 
 
@@ -30,23 +32,26 @@ h1 {
     display: inline-block;
     float: left;
     margin-top: 130px;
-    margin-left: 60px;
+    margin-left: 120px;
     width: 40%;
-    background-color: purple;
-    font-size: 60px;
-
+   
+    font-size: 110px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #9E9E9E;
 }
 p {
     display: inline-block;
     float: left;
-    margin-top: 150px;
-    margin-right: 50%;
-    margin-left: 60px;
-    background-color: springgreen;
+    margin-top: -70px;
+    margin-right: 66%;
+    margin-left: 120px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #9E9E9E;
 }
 #mergaite {
-    background-color: yellow;
     display: inline-block;
     position: absolute;
-    width: 50%;
+    width: 45%;
 }
