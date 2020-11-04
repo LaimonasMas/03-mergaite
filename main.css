@@ -22,7 +22,7 @@ li {
     list-style-type: none;
     margin-right: 40px;
     margin-top: 15px;
-    
+    font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
     color: #9E9E9E;
 }
@@ -43,9 +43,10 @@ p {
     display: inline-block;
     float: left;
     margin-top: -70px;
-    margin-right: 66%;
+    margin-right: 58%;
     margin-left: 120px;
-    
+    word-spacing: 10px;
+    letter-spacing: 3px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     color: #9E9E9E;
